@@ -1,0 +1,32 @@
+%YAML 1.1
+--- !AnimSeq &1
+name: fire_3
+guid: {a: 9819194886974333317, b: 13431349484885482399}
+assettype:
+  __class: SeqAssetType
+  value: atlas
+assetfilename: ""
+fps: 1
+lazyload: true
+cache: false
+atlases:
+  - {localId: 1, path: 85855c74-2a00-3ca6-cb0b-76c6f4117d19--0.imageatlas}
+  - {localId: 1, path: 85855c74-2a00-3ca6-cb0b-76c6f4117d19--1.imageatlas}
+  - {localId: 1, path: 85855c74-2a00-3ca6-cb0b-76c6f4117d19--2.imageatlas}
+  - {localId: 1, path: 85855c74-2a00-3ca6-cb0b-76c6f4117d19--3.imageatlas}
+  - {localId: 1, path: 85855c74-2a00-3ca6-cb0b-76c6f4117d19--4.imageatlas}
+  - {localId: 1, path: 85855c74-2a00-3ca6-cb0b-76c6f4117d19--5.imageatlas}
+  - {localId: 1, path: 85855c74-2a00-3ca6-cb0b-76c6f4117d19--6.imageatlas}
+  - {localId: 1, path: 85855c74-2a00-3ca6-cb0b-76c6f4117d19--7.imageatlas}
+  - {localId: 1, path: 85855c74-2a00-3ca6-cb0b-76c6f4117d19--8.imageatlas}
+  - {localId: 1, path: 85855c74-2a00-3ca6-cb0b-76c6f4117d19--9.imageatlas}
+  - {localId: 1, path: 85855c74-2a00-3ca6-cb0b-76c6f4117d19--10.imageatlas}
+  - {localId: 1, path: 85855c74-2a00-3ca6-cb0b-76c6f4117d19--11.imageatlas}
+  - {localId: 1, path: 85855c74-2a00-3ca6-cb0b-76c6f4117d19--12.imageatlas}
+  - {localId: 1, path: 85855c74-2a00-3ca6-cb0b-76c6f4117d19--13.imageatlas}
+  - {localId: 1, path: 85855c74-2a00-3ca6-cb0b-76c6f4117d19--14.imageatlas}
+memoryLimit: 0
+preload: true
+indexAction:
+  __class: Map
+preloadCount: 0

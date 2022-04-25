@@ -1,12 +1,12 @@
 %YAML 1.1
 --- !Material &1
-name: Unlit
-guid: {a: 5424436397334230007, b: 18314513981716096412}
+name: RocketUnlit
+guid: {a: 2685873392302667069, b: 8653086103082734476}
 xshader: {localId: 1, path: 12b9c0ae-f0d0-8b2a-d339-1d723a8f5839--12b9c0ae-f0d0-8b2a-d339-1d723a8f5839.xshader}
 properties:
   __class: PropertySheet
   name: ""
-  guid: {a: 14142986480323133915, b: 9178668565976776837}
+  guid: {a: 2252026466312160628, b: 12392841438460947370}
   floatmap:
     __class: Map
   vec4map:
@@ -20,10 +20,12 @@ properties:
     __class: Map
   texmap:
     __class: Map
-    _AlbedoTexture: {localId: 1, path: 00000000-0000-0000-0000-000000000021--00000000-0000-0000-0000-000000000021.png}
+    _AlbedoTexture: {localId: 1, path: ed149d1a-4137-f1a8-1247-6da3a5ce5924--ed149d1a-4137-f1a8-1247-6da3a5ce5924.png}
   intmap:
     __class: Map
 renderQueue: -1
 enabledMacros:
   __class: Map
+  AMAZING_USE_BLENDMODE_ALPHATEST: !<str> 1
+  AlbedoTexture: !<str> 1
 mshaderPath: ""

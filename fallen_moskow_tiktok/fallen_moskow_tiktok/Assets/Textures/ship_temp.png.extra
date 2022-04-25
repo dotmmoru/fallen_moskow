@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "ship_temp",
-    "objGuid": "Guid(5856803269645177137, 18115765983505671554)",
+    "objGuid": "Guid(1965635012804337710, 965519509607598218)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

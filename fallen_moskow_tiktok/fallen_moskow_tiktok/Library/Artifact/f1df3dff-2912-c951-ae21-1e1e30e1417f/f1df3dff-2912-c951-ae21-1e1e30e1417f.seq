@@ -1,0 +1,24 @@
+%YAML 1.1
+--- !AnimSeq &1
+name: Explosion
+guid: {a: 11405382562380462934, b: 12710949412972533681}
+assettype:
+  __class: SeqAssetType
+  value: atlas
+assetfilename: ""
+fps: 1
+lazyload: true
+cache: false
+atlases:
+  - {localId: 1, path: f1df3dff-2912-c951-ae21-1e1e30e1417f--0.imageatlas}
+  - {localId: 1, path: f1df3dff-2912-c951-ae21-1e1e30e1417f--1.imageatlas}
+  - {localId: 1, path: f1df3dff-2912-c951-ae21-1e1e30e1417f--2.imageatlas}
+  - {localId: 1, path: f1df3dff-2912-c951-ae21-1e1e30e1417f--3.imageatlas}
+  - {localId: 1, path: f1df3dff-2912-c951-ae21-1e1e30e1417f--4.imageatlas}
+  - {localId: 1, path: f1df3dff-2912-c951-ae21-1e1e30e1417f--5.imageatlas}
+  - {localId: 1, path: f1df3dff-2912-c951-ae21-1e1e30e1417f--6.imageatlas}
+memoryLimit: 0
+preload: false
+indexAction:
+  __class: Map
+preloadCount: 0

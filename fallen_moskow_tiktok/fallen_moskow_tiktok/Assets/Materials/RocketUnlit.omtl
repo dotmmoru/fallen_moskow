@@ -16,7 +16,7 @@
             "ZTest": "LessEqual"
         }
     ],
-    "Shader": "Unlit"
+    "Shader": "RocketUnlit"
 }
 ---ENDJSON
 

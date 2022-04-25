@@ -1,0 +1,25 @@
+%YAML 1.1
+--- !AnimSeq &1
+name: fire_1
+guid: {a: 15658667703924939850, b: 10242831633060802745}
+assettype:
+  __class: SeqAssetType
+  value: atlas
+assetfilename: ""
+fps: 1
+lazyload: true
+cache: false
+atlases:
+  - {localId: 1, path: f7b081f4-60a2-d2d8-238c-d1f8355f00fe--0.imageatlas}
+  - {localId: 1, path: f7b081f4-60a2-d2d8-238c-d1f8355f00fe--1.imageatlas}
+  - {localId: 1, path: f7b081f4-60a2-d2d8-238c-d1f8355f00fe--2.imageatlas}
+  - {localId: 1, path: f7b081f4-60a2-d2d8-238c-d1f8355f00fe--3.imageatlas}
+  - {localId: 1, path: f7b081f4-60a2-d2d8-238c-d1f8355f00fe--4.imageatlas}
+  - {localId: 1, path: f7b081f4-60a2-d2d8-238c-d1f8355f00fe--5.imageatlas}
+  - {localId: 1, path: f7b081f4-60a2-d2d8-238c-d1f8355f00fe--6.imageatlas}
+  - {localId: 1, path: f7b081f4-60a2-d2d8-238c-d1f8355f00fe--7.imageatlas}
+memoryLimit: 0
+preload: false
+indexAction:
+  __class: Map
+preloadCount: 0

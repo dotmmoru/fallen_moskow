@@ -1,0 +1,19 @@
+[
+  {
+    "guid": {
+      "a": "85855c74-2a00-3ca6-cb0b-76c6f4117d19",
+      "b": ""
+    },
+    "extraType": "ResItemTextureSequence",
+    "name": "fire_3",
+    "objGuid": "Guid(9819194886974333317, 13431349484885482399)",
+    "rttiType": "AnimSeq",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "md5": "d41d8cd98f00b204e9800998ecf8427e",
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512
+  }
+]

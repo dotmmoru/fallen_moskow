@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "herb_500",
-    "objGuid": "Guid(5062859197238092412, 6258580097545886619)",
+    "objGuid": "Guid(451455701170583751, 5720690590811976890)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
