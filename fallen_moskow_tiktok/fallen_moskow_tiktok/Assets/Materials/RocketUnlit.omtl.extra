@@ -1,0 +1,17 @@
+[
+  {
+    "guid": {
+      "a": "12b9c0ae-f0d0-8b2a-d339-1d723a8f5839",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "RocketUnlit",
+    "objGuid": "Guid(5424436397334230007, 18314513981716096412)",
+    "rttiType": "Material",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "md5": "8255e3a142e0d02adeab5798ab09acac",
+    "skinObjGuid": "Guid(3769021774084548399, 10015176054864716160)"
+  }
+]

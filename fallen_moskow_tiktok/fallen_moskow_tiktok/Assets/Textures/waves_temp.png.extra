@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "1f24c5dd-7ff4-9071-fd6d-5b0c3866b455",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "waves_temp",
+    "objGuid": "Guid(4703428082784925029, 6976961521528252567)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "md5": "40bb9cdf58d7281752ac6c832f55f87c",
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 1,
+    "wrapModeT": 1,
+    "wrapModeR": 1,
+    "premultiplyAlpha": true
+  }
+]

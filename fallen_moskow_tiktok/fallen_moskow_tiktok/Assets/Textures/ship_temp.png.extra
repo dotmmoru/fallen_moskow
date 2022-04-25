@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "f8936bcf-c47c-7590-6681-d6c327c3bc91",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "ship_temp",
+    "objGuid": "Guid(5856803269645177137, 18115765983505671554)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "md5": "bab1ef8f770e1ec9ad7a2f1654f3ccc5",
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 1,
+    "wrapModeT": 1,
+    "wrapModeR": 1,
+    "premultiplyAlpha": true
+  }
+]

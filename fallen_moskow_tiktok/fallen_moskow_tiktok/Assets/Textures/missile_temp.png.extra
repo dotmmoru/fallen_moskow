@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "ed149d1a-4137-f1a8-1247-6da3a5ce5924",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "missile_temp",
+    "objGuid": "Guid(2039635004372842589, 17052508089157793714)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "md5": "03e5ba9553b526054289a57895b9c8bb",
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 1,
+    "wrapModeT": 1,
+    "wrapModeR": 1,
+    "premultiplyAlpha": true
+  }
+]

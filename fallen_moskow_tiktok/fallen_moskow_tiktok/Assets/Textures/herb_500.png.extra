@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "5b9c34bb-6428-b1b8-6a5e-f57738eaba96",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "herb_500",
+    "objGuid": "Guid(5062859197238092412, 6258580097545886619)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "md5": "dfd22800cc29ebcf5738748da7f054fa",
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 1,
+    "wrapModeT": 1,
+    "wrapModeR": 1,
+    "premultiplyAlpha": true
+  }
+]
