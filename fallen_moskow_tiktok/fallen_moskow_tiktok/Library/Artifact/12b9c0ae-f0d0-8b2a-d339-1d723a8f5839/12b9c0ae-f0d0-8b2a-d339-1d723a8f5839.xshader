@@ -1,12 +1,12 @@
 %YAML 1.1
 --- !XShader &1
 name: RocketUnlit
-guid: {a: 2184034193524055256, b: 13452686068868934335}
+guid: {a: 1891729694486285165, b: 12089729259933784973}
 renderQueue: 2000
 passes:
   - __class: Pass
     name: ""
-    guid: {a: 16018080091487185358, b: 5120632451178979517}
+    guid: {a: 16090066994376712574, b: 13610244353219387536}
     shaders:
       __class: Map
     semantics:
@@ -67,11 +67,11 @@ passes:
     renderState:
       __class: RenderState
       name: ""
-      guid: {a: 2542630972780314331, b: 15436039923817349283}
+      guid: {a: 741751342260175407, b: 6318881399007782070}
       rasterization:
         __class: RasterizationState
         name: ""
-        guid: {a: 5281380938621032730, b: 164291128945542538}
+        guid: {a: 15872413704725766771, b: 7542697799798375827}
         depthClampEnable: false
         depthClampEnableName: ""
         rasterizerDiscardEnable: false
@@ -101,7 +101,7 @@ passes:
       depthstencil:
         __class: DepthStencilState
         name: ""
-        guid: {a: 14289579566253787196, b: 5832903334308765347}
+        guid: {a: 18179096214970642406, b: 8731815472059468419}
         depthTestEnable: true
         depthTestEnableName: ""
         depthCompareOp:
@@ -114,7 +114,7 @@ passes:
       colorBlend:
         __class: ColorBlendState
         name: ""
-        guid: {a: 8307013435200518379, b: 12427868712213863299}
+        guid: {a: 9677103331185749671, b: 12240975273614909844}
         blendConstants: {x: 0, y: 0, z: 0, w: 0}
         blendEnableName: ""
         blendFactorName: ""
@@ -122,7 +122,7 @@ passes:
         attachments:
           - __class: ColorBlendAttachmentState
             name: ""
-            guid: {a: 4702068787651397612, b: 12246717501100549546}
+            guid: {a: 11547336296064883462, b: 5682960930438614965}
             blendEnable: true
             srcColorBlendFactor:
               __class: BlendFactor
@@ -159,7 +159,7 @@ passes:
       value: NONE
 --- !KeywordProgramProfile &2
 name: a1
-guid: {a: 11403894403419011678, b: 15691320668283248279}
+guid: {a: 7657143761884499647, b: 14709515625124995489}
 keywordSets:
   -
     - ""
@@ -179,41 +179,41 @@ stagets:
 shaderSnippets:
   - __class: ShaderSnippet
     name: ""
-    guid: {a: 9099887953154216615, b: 9797337069492317880}
+    guid: {a: 4125874947096462510, b: 11492655214153958076}
     source: ""
     location: Library/ShaderData/12b9c0ae-f0d0-8b2a-d339-1d723a8f5839_0/shaderGLES/daafeb0f5403135565da2f0b1205305e.frag
   - __class: ShaderSnippet
     name: ""
-    guid: {a: 1892979260019510522, b: 5027710465751673528}
+    guid: {a: 11839851643938950350, b: 818109592730576008}
     source: ""
     location: Library/ShaderData/12b9c0ae-f0d0-8b2a-d339-1d723a8f5839_0/shaderGLES/f6b6dfb8a5768ba3d18c52c1ddfab413.frag
   - __class: ShaderSnippet
     name: ""
-    guid: {a: 10975255056647206496, b: 13189305614152009098}
+    guid: {a: 16955356253543279760, b: 4295782143182617260}
     source: ""
     location: Library/ShaderData/12b9c0ae-f0d0-8b2a-d339-1d723a8f5839_0/shaderGLES/daafeb0f5403135565da2f0b1205305e.vert
   - __class: ShaderSnippet
     name: ""
-    guid: {a: 7730068348098082042, b: 7429609264349951918}
+    guid: {a: 16595088586832229921, b: 7952415576252058793}
     source: ""
     location: Library/ShaderData/12b9c0ae-f0d0-8b2a-d339-1d723a8f5839_0/shaderGLES/f6b6dfb8a5768ba3d18c52c1ddfab413.vert
   - __class: ShaderSnippet
     name: ""
-    guid: {a: 17961418448315449052, b: 16646947302626231444}
+    guid: {a: 17601960559241662763, b: 13764914536998782356}
     source: ""
     location: Library/ShaderData/12b9c0ae-f0d0-8b2a-d339-1d723a8f5839_0/shaderMetal/daafeb0f5403135565da2f0b1205305e.frag
   - __class: ShaderSnippet
     name: ""
-    guid: {a: 15729508401631838067, b: 3758672366784429467}
+    guid: {a: 16520768083829317319, b: 10349409802864333755}
     source: ""
     location: Library/ShaderData/12b9c0ae-f0d0-8b2a-d339-1d723a8f5839_0/shaderMetal/f6b6dfb8a5768ba3d18c52c1ddfab413.frag
   - __class: ShaderSnippet
     name: ""
-    guid: {a: 11982139856924205874, b: 11229380848205421745}
+    guid: {a: 13710483211089104126, b: 15021638632049934757}
     source: ""
     location: Library/ShaderData/12b9c0ae-f0d0-8b2a-d339-1d723a8f5839_0/shaderMetal/daafeb0f5403135565da2f0b1205305e.vert
   - __class: ShaderSnippet
     name: ""
-    guid: {a: 5137242130508817016, b: 9868807970572233906}
+    guid: {a: 5857118536984617614, b: 2927564899725387418}
     source: ""
     location: Library/ShaderData/12b9c0ae-f0d0-8b2a-d339-1d723a8f5839_0/shaderMetal/f6b6dfb8a5768ba3d18c52c1ddfab413.vert

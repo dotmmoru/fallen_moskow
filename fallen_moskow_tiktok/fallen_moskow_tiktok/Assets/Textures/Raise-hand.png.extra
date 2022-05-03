@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "b0b5ce7d-2f29-db44-6c2d-685ef8ab8039",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "Raise-hand",
+    "objGuid": "Guid(3189774996500329679, 7929954404623733660)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "md5": "803f6418002532cd32ec8ec8788962db",
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 1,
+    "wrapModeT": 1,
+    "wrapModeR": 1,
+    "premultiplyAlpha": true
+  }
+]

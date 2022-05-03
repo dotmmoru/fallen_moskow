@@ -170,7 +170,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": false,
+    "expanded": true,
     "type": "none"
   },
   {
@@ -524,7 +524,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": true,
+    "expanded": false,
     "type": "none"
   },
   {
@@ -863,6 +863,58 @@
   },
   {
     "guid": {
+      "a": "fbd6cf19-355c-189b-5fe9-ea6b5424e2e7",
+      "b": ""
+    },
+    "objGuid": "Guid(2900363189684644672, 14533786397436142237)",
+    "extraType": "IFTransform2d",
+    "name": "2D Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "IFTransform2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "mode": "Screen",
+    "type": "2D"
+  },
+  {
+    "guid": {
+      "a": "c077807a-5f9c-7489-36e8-d76c7408d78d",
+      "b": ""
+    },
+    "objGuid": "Guid(7151952469648446681, 10052054868038078910)",
+    "extraType": "IFTransform2d",
+    "name": "2D Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "IFTransform2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "mode": "Screen",
+    "type": "2D"
+  },
+  {
+    "guid": {
       "a": "bb95c364-75ea-bf06-5c1c-9b44ce2cf392",
       "b": ""
     },
@@ -964,6 +1016,30 @@
     "hideInPanel": false,
     "mode": "Screen",
     "type": "2D"
+  },
+  {
+    "guid": {
+      "a": "91c3ab03-56eb-6582-7a19-0d3aae303637",
+      "b": ""
+    },
+    "objGuid": "Guid(16014987019172047105, 15519544373119105692)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false
   },
   {
     "guid": {
@@ -1097,62 +1173,10 @@
   },
   {
     "guid": {
-      "a": "3b2b7377-ee3c-0152-8928-c7e417f5e185",
+      "a": "39e2ee6e-b676-16d6-27c6-1f6994cf4211",
       "b": ""
     },
-    "objGuid": "Guid(11043942372170846338, 2436403680671285376)",
-    "extraType": "IFTransform2d",
-    "name": "2D Transform",
-    "eulerAngle": [
-      0,
-      0,
-      0
-    ],
-    "rotation": [
-      0,
-      0,
-      0,
-      1
-    ],
-    "rttiType": "IFTransform2d",
-    "version": "0.1.0",
-    "isVisibleInInspector": true,
-    "hideInPanel": false,
-    "mode": "Screen",
-    "type": "2D"
-  },
-  {
-    "guid": {
-      "a": "3cd8f3b8-8016-a9ec-e640-5526b7296dc7",
-      "b": ""
-    },
-    "objGuid": "Guid(1604583127278811013, 403980475110238092)",
-    "extraType": "IFTransform2d",
-    "name": "2D Transform",
-    "eulerAngle": [
-      0,
-      0,
-      0
-    ],
-    "rotation": [
-      0,
-      0,
-      0,
-      1
-    ],
-    "rttiType": "IFTransform2d",
-    "version": "0.1.0",
-    "isVisibleInInspector": true,
-    "hideInPanel": false,
-    "mode": "Screen",
-    "type": "2D"
-  },
-  {
-    "guid": {
-      "a": "fa06a360-83bc-933b-a58a-6fe0512fe08b",
-      "b": ""
-    },
-    "objGuid": "Guid(7658051450305491140, 15179392678914006415)",
+    "objGuid": "Guid(15010433550514078565, 15209446900211220658)",
     "extraType": "IFTransform2d",
     "name": "2D Transform",
     "eulerAngle": [
@@ -1722,12 +1746,27 @@
   },
   {
     "guid": {
-      "a": "89313980-6c28-7aee-ccfb-c9a1414955a1",
+      "a": "803d2a97-5b5a-fa81-fc5a-8fcb388f55c0",
       "b": ""
     },
-    "objGuid": "Guid(12556737576561939233, 9384325818852131475)",
+    "objGuid": "Guid(7371970683633472401, 5111609364731956611)",
     "extraType": "Entity",
-    "name": "fire_3 (1)",
+    "name": "ShipParent",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": false,
+    "type": "none"
+  },
+  {
+    "guid": {
+      "a": "73e645ee-4a77-2d70-6478-2d5d4aa0a53f",
+      "b": ""
+    },
+    "objGuid": "Guid(9602264979792996669, 10854814424422669221)",
+    "extraType": "Entity",
+    "name": "Hint",
     "rttiType": "Entity",
     "version": "0.1.0",
     "isVisibleInInspector": true,
@@ -1737,43 +1776,27 @@
   },
   {
     "guid": {
-      "a": "4ca3e78b-05b4-311e-7c4c-ab6c63cb3a15",
+      "a": "ab3730b6-70c0-3d7a-fb57-6d589202bea0",
       "b": ""
     },
-    "objGuid": "Guid(6719868113916741504, 14059878743504551835)",
+    "objGuid": "Guid(7009821783741960536, 2486669285875441083)",
     "extraType": "IFSprite2d",
     "name": "Image",
     "rttiType": "IFSprite2d",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "texture": "00000000-0000-0000-0000-00000000003e",
+    "texture": "b0b5ce7d-2f29-db44-6c2d-685ef8ab8039",
     "advanced": false
   },
   {
     "guid": {
-      "a": "fc12c0b3-87e6-c9e0-cdcd-8d5fa47c3a9c",
+      "a": "9611dc59-5504-7150-559c-51b4624ac4c3",
       "b": ""
     },
-    "objGuid": "Guid(10612772968310530789, 12085664818792737435)",
-    "extraType": "AnimationSequence",
-    "name": "Animation Sequence",
-    "rttiType": "AnimSeqComponent",
-    "version": "0.1.0",
-    "isVisibleInInspector": true,
-    "hideInPanel": false,
-    "sequence": "85855c74-2a00-3ca6-cb0b-76c6f4117d19",
-    "targetProperty": "Albedo",
-    "playMode": 1
-  },
-  {
-    "guid": {
-      "a": "170ec4bb-f4ef-923e-c56e-9e2dbad55781",
-      "b": ""
-    },
-    "objGuid": "Guid(9675130815478256077, 12931070481649963701)",
+    "objGuid": "Guid(236452218092464305, 5957027547424505764)",
     "extraType": "Entity",
-    "name": "fire_3 (2)",
+    "name": "Fg_6",
     "rttiType": "Entity",
     "version": "0.1.0",
     "isVisibleInInspector": true,
@@ -1783,43 +1806,27 @@
   },
   {
     "guid": {
-      "a": "27f15f56-d21b-72d9-f920-ec544b8bacf7",
+      "a": "5bf9f237-399d-ced9-506d-fcfc24a7c53e",
       "b": ""
     },
-    "objGuid": "Guid(453615330646651432, 15162985940568791686)",
+    "objGuid": "Guid(7155340562530062936, 10601604018240322194)",
     "extraType": "IFSprite2d",
     "name": "Image",
     "rttiType": "IFSprite2d",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "texture": "00000000-0000-0000-0000-00000000003e",
+    "texture": "1f24c5dd-7ff4-9071-fd6d-5b0c3866b455",
     "advanced": false
   },
   {
     "guid": {
-      "a": "59a49094-33de-d821-a5b4-e1927cc01095",
+      "a": "13f8139b-98e6-12b7-4665-14d9aa2c6465",
       "b": ""
     },
-    "objGuid": "Guid(5566707806677085869, 8061392049760580483)",
-    "extraType": "AnimationSequence",
-    "name": "Animation Sequence",
-    "rttiType": "AnimSeqComponent",
-    "version": "0.1.0",
-    "isVisibleInInspector": true,
-    "hideInPanel": false,
-    "sequence": "85855c74-2a00-3ca6-cb0b-76c6f4117d19",
-    "targetProperty": "Albedo",
-    "playMode": 1
-  },
-  {
-    "guid": {
-      "a": "732e40e2-fe79-49c7-bb5d-7b72e8cbec9e",
-      "b": ""
-    },
-    "objGuid": "Guid(11476651910118275214, 839160358285905561)",
+    "objGuid": "Guid(3911216946629486068, 17608189994933468569)",
     "extraType": "Entity",
-    "name": "fire_3 (3)",
+    "name": "Fg_7",
     "rttiType": "Entity",
     "version": "0.1.0",
     "isVisibleInInspector": true,
@@ -1829,33 +1836,17 @@
   },
   {
     "guid": {
-      "a": "54062fc1-90bc-ad3d-75a1-a9911398fe57",
+      "a": "243dc0b3-36d2-2d8a-3b41-4835ae62edcb",
       "b": ""
     },
-    "objGuid": "Guid(5208650427441825034, 3755145170208802991)",
+    "objGuid": "Guid(11908768962246396766, 15585545745674263467)",
     "extraType": "IFSprite2d",
     "name": "Image",
     "rttiType": "IFSprite2d",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "texture": "00000000-0000-0000-0000-00000000003e",
+    "texture": "1f24c5dd-7ff4-9071-fd6d-5b0c3866b455",
     "advanced": false
-  },
-  {
-    "guid": {
-      "a": "054e2dfb-adae-a6b1-2d77-b0a737430ca4",
-      "b": ""
-    },
-    "objGuid": "Guid(4126782113848972165, 14704860874871236020)",
-    "extraType": "AnimationSequence",
-    "name": "Animation Sequence",
-    "rttiType": "AnimSeqComponent",
-    "version": "0.1.0",
-    "isVisibleInInspector": true,
-    "hideInPanel": false,
-    "sequence": "85855c74-2a00-3ca6-cb0b-76c6f4117d19",
-    "targetProperty": "Albedo",
-    "playMode": 1
   }
 ]
