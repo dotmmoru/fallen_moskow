@@ -6,12 +6,12 @@
     },
     "extraType": "ResItemMaterialOmtl",
     "name": "RocketUnlit",
-    "objGuid": "Guid(6793321125192031651, 16281744900018904963)",
+    "objGuid": "Guid(2760562988942654768, 9723214373132742819)",
     "rttiType": "Material",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
     "md5": "daf4a8e39c6b1551f94d20aedc65f8b1",
-    "skinObjGuid": "Guid(14360216294941692142, 13774417278409412771)"
+    "skinObjGuid": "Guid(3697055074055119111, 1518915493396362663)"
   }
 ]

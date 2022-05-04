@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "Raise-hand",
-    "objGuid": "Guid(3189774996500329679, 7929954404623733660)",
+    "objGuid": "Guid(16378100504919261846, 5884781069909674928)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

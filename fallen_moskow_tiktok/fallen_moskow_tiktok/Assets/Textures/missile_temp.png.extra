@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "missile_temp",
-    "objGuid": "Guid(11910881615758561152, 5832337265151520910)",
+    "objGuid": "Guid(4847379050230871428, 8246564518831397050)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

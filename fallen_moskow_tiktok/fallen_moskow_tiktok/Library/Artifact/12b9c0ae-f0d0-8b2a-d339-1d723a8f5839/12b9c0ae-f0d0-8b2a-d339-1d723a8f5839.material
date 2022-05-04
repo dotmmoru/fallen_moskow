@@ -1,12 +1,12 @@
 %YAML 1.1
 --- !Material &1
 name: RocketUnlit
-guid: {a: 6793321125192031651, b: 16281744900018904963}
+guid: {a: 2760562988942654768, b: 9723214373132742819}
 xshader: {localId: 1, path: 12b9c0ae-f0d0-8b2a-d339-1d723a8f5839--12b9c0ae-f0d0-8b2a-d339-1d723a8f5839.xshader}
 properties:
   __class: PropertySheet
   name: ""
-  guid: {a: 10323232793799827099, b: 10893606545775266715}
+  guid: {a: 9749716131758858285, b: 14759462033183364492}
   floatmap:
     __class: Map
   vec4map:
